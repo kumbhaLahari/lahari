@@ -1,3 +1,3 @@
 # lahari
 This is my name
-Iam pursing Btech
+Iam pursing btech
